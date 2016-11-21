@@ -1,6 +1,6 @@
 {
   "name": "Ziv.GitHub.io",
-  "tagline": "[jianwen'blog]",
-  "body": "# ziv.github.io\r\n行与思\r\n",
+  "tagline": "jianwen'blog",
+  "body": "# ziv.github.io\r\n行与思\r\n***\r\n\r\n> ls\r\n> mkdir\r\n\r\nYou can create tables by assembling a list of words and dividing them with hyphens - (for the first row), and then separating each column with a pipe |:\r\n\r\nFirst Header | Second Header\r\n------------ | -------------\r\nContent from cell 1 | Content from cell 2\r\nContent in the first column | Content in the second column",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
